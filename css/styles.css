@@ -1,0 +1,148 @@
+/*START OF HEADER*/
+#top_header{
+  border-bottom: 1px solid silver;
+}
+#top_header a{
+  color: black;
+  font-weight: 700px;
+  font-size: 0.80rem;
+}
+
+.container-fluid{
+  padding:0px;
+}
+.navbar{
+  background-color: #004d80;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+#middle_header h1{
+  padding-top:11px;
+  font-size:25px;
+  font-weight:bold;
+}
+/*END OF HEADER*/
+/*START OF FIRST SECTION*/
+.first_section_container{
+background-color: #22A7F0;
+padding:10px;
+}
+.first_section h3,h6{
+  color: white;
+}
+.first_section p{
+  color: white;
+  font-size:14px;
+}
+.btn-primary{
+  background: white;
+  color:black;
+
+}
+.Computer_image{
+  width:100%;
+}
+/*END OF FIRST SECTION*/
+/*START OF SECOND SECTION*/
+.second_section_container h6{
+  color:black;
+}
+.detail_icns{
+  width:70px;
+  padding-bottom: 15px;
+}
+.second_section_container p{
+  color: black;
+  font-size: 14px;
+}
+/*END OF SECOND SECTION*/
+/*START OF REQUIREMENT SECTION*/
+.requirment_section{
+  background-color: #22A7F0;
+  padding:4px;
+}
+.requirment_section h4{
+  color: white;
+  margin-top: 10px;
+  display:inline-block;
+  font-size:20px;
+}
+/*END OF REQUIREMENT SECTION*/
+/*START OF DEVELOPER INTRO SECTION*/
+.developer_image{
+  width:100%;
+  border-radius: 300px;
+  border: 1px solid #22A7F0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  filter: drop-shadow(0 0 0.75rem #22A7F0);
+}
+.developer_description{
+  margin-top: 25px;
+}
+.developer_description p{
+  font-size: 14px;
+}
+/*END OF DEVELOPER INTRO SECTION*/
+/*START OF SUBSCRIBE TO OUR NEWS LETTER SECTION*/
+.subscribe_section{
+  background-color: #22A7F0;
+}
+.btn_sebscribe{
+  background-color: #2980b9;
+  border:0px;
+  color:white;
+  border-radius:0px 3px 3px 0px;
+}
+/*END OF SUBSCRIBE TO OUR NEWS LETTER SECTION*/
+/* START OF SERVICE SECTION*/
+.service_section_container .detail_icns{
+  width:100px;
+  padding-bottom: 15px;
+}
+.service_section_container h6{
+  color: Black;
+}
+/*End OF SERVICE SECTION*/
+/*START OF CONTACT US*/
+.contact_section{
+  border: 1px solid #eeeeee;
+  border-radius:8px;
+}
+.contact_section h3{
+  color: Black;
+}
+/*END OF CONTACT US*/
+/*START OF FOOTER*/
+.full_footer{
+  background-color:#2980b9;
+  padding-top:5px;
+ }
+.top_footer h2{
+  color:white;
+}
+.top_footer h6{
+  color:white;
+  font-size: 17px;
+}
+.top_footer p{
+  color:white;
+  font-size:10px;
+}
+.top_footer a{
+  color:white;
+  font-size:12px;
+}
+.imge{
+  width:100%;
+  border-radius:3px;
+  margin-bottom: 12px;
+  margin-top:5px;
+}
+.bottom_footer{
+  background-color: #2c3e50;
+  color: white;
+  padding-top: 8px;
+  font-size: 12px;
+}
+/*END OF FOOTER*/
